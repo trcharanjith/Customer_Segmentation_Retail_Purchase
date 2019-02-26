@@ -1,1 +1,1 @@
-# Loan-Prediction
+# Customer Segmentation
